@@ -15,6 +15,7 @@ public class Rule
 
 	/**
 	 * 参数集合
+	 * 测试一下
 	 */
 	private String[] params;
 	/**
